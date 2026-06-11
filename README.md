@@ -38,7 +38,7 @@
 - **Instagram:** [@paudel_sakshyam](https://instagram.com/paudel_sakshyam)
 - **YouTube:** [@sakshyampaudel0104](https://youtube.com/@sakshyampaudel0104)
 - **Facebook:** [Sakshyam Paudel](https://facebook.com/Sakshyam%20Paudel)
-- **Email:** sakshyam.paudel52@gmail.com
+- **Email:** sakshyam.paudel5@gmail.com
 
 ---
 
