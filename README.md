@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # Hi, I'm Sakshyam Paudel
 
@@ -41,4 +41,6 @@
 - **Email:** sakshyam.paudel5@gmail.com
 
 ---
+
+</div>
 
