@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi, I'm Sakshyam Paudel
 
@@ -42,6 +42,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshyam0426&color=blueviolet&style=flat-square&label=profile+views" />
-</div>
